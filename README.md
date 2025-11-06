@@ -1,4 +1,22 @@
-Developing Back-End Apps with Node.js and ExpressThis project is the peer-graded assignment for the Coursera course "Developing Back-End Apps with Node.js and Express" by IBM. It is a REST API for a book review application that implements public routes for general users and authenticated routes for registered users.🚀 Features & Tasks ImplementedThis project successfully implements all 14 required tasks.General Users (Public Routes)Task 1: Get the list of all books.Task 2: Get book details based on ISBN.Task 3: Get all books by a specific author.Task 4: Get all books by a specific title.Task 5: Get book reviews based on ISBN.Registered Users (Authenticated Routes)Task 6: Register a new user.Task 7: Login as a registered user (and create a session).Task 8: Add or modify a book review.Task 9: Delete a book review posted by the user.Node.js Client (Axios)Task 10: Get all books (using async-await).Task 11: Search by ISBN (using Promises).Task 12: Search by Author (using async-await).Task 13: Search by Title (using async-await).Task 14: Submission to GitHub.📂 Project Structurecoursera-project/
+Developing Back-End Apps with Node.js and ExpressThis project is the peer-graded assignment for the Coursera course "Developing Back-End Apps with Node.js and Express" by IBM. 
+It is a REST API for a book review application that implements public routes for general users and authenticated routes for registered users.
+🚀 Features & Tasks Implemented
+This project successfully implements all 14 required tasks.General Users (Public Routes)
+Task 1: Get the list of all books.
+Task 2: Get book details based on ISBN.
+Task 3: Get all books by a specific author.
+Task 4: Get all books by a specific title.Task 
+5: Get book reviews based on ISBN.
+Registered Users (Authenticated Routes)
+Task 6: Register a new user.
+Task 7: Login as a registered user (and create a session).
+Task 8: Add or modify a book review.
+Task 9: Delete a book review posted by the user.Node.js Client (Axios)
+Task 10: Get all books (using async-await).
+Task 11: Search by ISBN (using Promises).
+Task 12: Search by Author (using async-await).
+Task 13: Search by Title (using async-await).
+Task 14: Submission to GitHub.📂 Project Structurecoursera-project/
 │
 ├── auth_users.js     # Handles registration, login, and review routes (Tasks 6-9)
 ├── booksdb.js        # Mock database for books and reviews
