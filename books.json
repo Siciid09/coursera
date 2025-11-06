@@ -1,0 +1,16 @@
+[
+  {
+    "isbn": "9780143127741",
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "reviews": {
+      "user1": "Great read!"
+    }
+  },
+  {
+    "isbn": "9780307465351",
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "reviews": {}
+  }
+]
